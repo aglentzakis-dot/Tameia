@@ -42,5 +42,14 @@
       "platform": "webapp",
       "url": "https://aglentzakis-dot.github.io/tameia/manifest.json"
     }
-  ]
+  ],
+  "share_target": {
+    "action": "./index.html",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
 }
