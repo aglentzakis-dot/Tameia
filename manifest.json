@@ -51,5 +51,56 @@
       "text": "text",
       "url": "url"
     }
-  }
+  },
+  "shortcuts": [
+    {
+      "name": "🎤 Πες το",
+      "short_name": "Πες το",
+      "description": "Νέα κίνηση με τη φωνή",
+      "url": "./index.html?do=voice",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Νέο έξοδο",
+      "short_name": "Έξοδο",
+      "url": "./index.html?do=out",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Νέο έσοδο",
+      "short_name": "Έσοδο",
+      "url": "./index.html?do=in",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "📷 Φωτογραφία απόδειξης",
+      "short_name": "Απόδειξη",
+      "url": "./index.html?do=receipt",
+      "icons": [
+        {
+          "src": "icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
 }
